@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at FAST NUCES.
 - 🤔 &nbsp; Exploring new technologies.
-- 🌱 &nbsp; Learning more about Programming Languages, Web Development.
+- 🌱 &nbsp; Learning more about Programming Languages, Exploring AI .
 - 🥋 &nbsp; Gamer by Nature.
 - 🎧 &nbsp; "DEATH BEFORE DISGRACE, NO FEAR EXCEPT ALLAH!"
 
